@@ -1,0 +1,514 @@
+# MailCraft interface strings: Hebrew (עברית, he).
+# context<TAB>English<TAB>translation; escapes \n \t \\. Placeholders stay unchanged.
+# Clean room: translated independently from the English source meanings, without copying another application's localization.
+# AI-assisted draft, not independently reviewed by another native Hebrew speaker.
+
+	  Loading folders…	טוען תיקיות…
+	(Top level)	(רמה עליונה)
+	(no subject)	(ללא נושא)
+	1 attachment	קובץ מצורף אחד
+	1. List	1. רשימה
+	</>	</>
+	Accounts	חשבונות
+	Accounts and settings	חשבונות והגדרות
+	Add a subject	הוספת נושא
+	Add account…	הוספת חשבון…
+	Add an account	הוספת חשבון
+	Add an email account	הוספת חשבון דוא״ל
+	Added to new messages, replies and forwards.	יתווסף להודעות חדשות, לתשובות ולהעברות.
+	All	הכול
+	All Inboxes	כל תיבות הדואר הנכנס
+	All Sent	כל הפריטים שנשלחו
+	All caught up: nothing in this folder.	הכול מעודכן: אין הודעות בתיקייה זו.
+	All folders	כל התיקיות
+	Always show from {sender}	להציג תמיד הודעות מאת {sender}
+	Apr	אפר׳
+	Archive	העברה לארכיון
+	Archive (Backspace)	העברה לארכיון (Backspace)
+	Ask before deleting for good	לבקש אישור לפני מחיקה לצמיתות
+	At the top of {account}	בראש החשבון {account}
+	Attach file	צירוף קובץ
+	Audio	שמע
+	Aug	אוג׳
+	B	B
+	Bcc	עותק מוסתר
+	Bold (Ctrl+B)	מודגש (Ctrl+B)
+	Bottom	למטה
+	Bulleted list	רשימה עם תבליטים
+	Cancel	ביטול
+	Categorize	שיוך לקטגוריה
+	Category	קטגוריה
+	Cc	עותק
+	Cc / Bcc	עותק / עותק מוסתר
+	Cc: {names}	עותק: {names}
+	Choose…	בחירה…
+	Clear search	ניקוי החיפוש
+	Close	סגירה
+	Code	קוד
+	Compact	תצוגה קומפקטית
+	Connect	התחברות
+	Connecting…	מתחבר…
+	Conversations	שיחות
+	Create	יצירה
+	Create rule…	יצירת כלל…
+	Dark	כהה
+	Date	תאריך
+	Dec	דצמ׳
+	Delete	מחיקה
+	Delete (Del)	מחיקה (Delete)
+	Delete folder…	מחיקת תיקייה…
+	Delete permanently?	למחוק לצמיתות?
+	Delete “{folder}”?	למחוק את ״{folder}״?
+	Deleted Items	פריטים שנמחקו
+	Discard	ביטול השינויים
+	Disconnected: {error}	החיבור נותק: {error}
+	Document	מסמך
+	Don't run later rules on mail this one matches	לא להפעיל כללים מאוחרים יותר על הודעות שתואמות לכלל זה
+	Downloading the message…	מוריד את ההודעה…
+	Draft saved	הטיוטה נשמרה
+	Drafts	טיוטות
+	Edit	עריכה
+	Edit rule	עריכת כלל
+	Email address	כתובת דוא״ל
+	Enter the password for {email}.	יש להזין את הסיסמה עבור {email}.
+	Favorites	מועדפים
+	Feb	פבר׳
+	File	קובץ
+	Flag	סימון בדגל
+	Flag / Unflag (Insert)	סימון בדגל / הסרת דגל (Insert)
+	Flagged	מסומן בדגל
+	Focused	ממוקד
+	Focused Inbox	תיבת דואר נכנס ממוקדת
+	Focused Inbox: put newsletters and automatic mail in Other	תיבה ממוקדת: העברת ניוזלטרים ודואר אוטומטי אל ״אחר״
+	Folder	תיקייה
+	Folder name	שם תיקייה
+	Forward	העברה הלאה
+	Forward (Ctrl+F)	העברה הלאה (Ctrl+F)
+	Fri	ו׳
+	Friday	יום שישי
+	From	מאת
+	From contains	השולח מכיל
+	From {names}	מאת {names}
+	Group messages by conversation	קיבוץ הודעות לפי שיחה
+	Has attachments	עם קבצים מצורפים
+	Has files	מכיל קבצים
+	Heading	כותרת
+	Hidden from the other recipients	מוסתר משאר הנמענים
+	Home	בית
+	I	I
+	If it {condition}: {action}	אם {condition}: {action}
+	Important	חשוב
+	Inbox	דואר נכנס
+	Incoming mail (IMAP)	דואר נכנס (IMAP)
+	Insert a picture (or paste one)	הוספת תמונה (או הדבקתה)
+	Inside {folder} ({account})	בתוך {folder} ({account})
+	Is a newsletter or list mail	הודעה מרשימת תפוצה או ניוזלטר
+	Italic (Ctrl+I)	נטוי (Ctrl+I)
+	Items: {n}	פריטים: {n}
+	Jan	ינו׳
+	Jul	יול׳
+	Jun	יונ׳
+	Junk Email	דואר זבל
+	Language	שפה
+	Last month	בחודש שעבר
+	Last week	בשבוע שעבר
+	Later	מאוחר יותר
+	Later today	מאוחר יותר היום
+	Light	בהיר
+	Link	קישור
+	Link (Ctrl+K)	קישור (Ctrl+K)
+	Links like {link} aren't opened	קישורים כמו {link} אינם נפתחים
+	Local-first: mail is cached on this computer for fast offline search. Passwords stay in the system keychain.	הדואר נשמר במחשב זה לצורך חיפוש מהיר גם ללא חיבור. הסיסמאות נשמרות במחסן האישורים של המערכת.
+	Looking up the server settings…	מחפש את הגדרות השרת…
+	Mail from {sender}	דואר מאת {sender}
+	MailCraft	MailCraft
+	MailCraft {version} · an ArtCraft app · MIT OR Apache-2.0	MailCraft {version} · יישום ArtCraft · ברישיון MIT או Apache-2.0
+	Mailing list: unsubscribe at {address}	רשימת תפוצה: ביטול הרשמה בכתובת {address}
+	Mar	מרץ
+	Mark all as read	סימון הכול כנקרא
+	Mark as read	סימון כנקרא
+	Mark as unread	סימון כלא נקרא
+	Mark read	סימון כנקרא
+	Mark unread	סימון כלא נקרא
+	May	מאי
+	Message preview	תצוגה מקדימה של הודעה
+	Message sent	ההודעה נשלחה
+	Messages waiting to be sent	הודעות הממתינות לשליחה
+	Messages without a subject are easy to overlook.	קל לפספס הודעות ללא נושא.
+	Mon	ב׳
+	Monday	יום שני
+	Move	העברה
+	Move 1 message	העברת הודעה אחת
+	Move folder…	העברת תיקייה…
+	Move to	העברה אל
+	Move to a folder (Ctrl+Shift+V)	העברה לתיקייה (Ctrl+Shift+V)
+	Move to folder	העברה לתיקייה
+	Move to…	העברה אל…
+	Move {n} messages	העברת {n} הודעות
+	Move “{folder}” to	העברת ״{folder}״ אל
+	Name	שם
+	Names <addresses>, separated by ; or ,	שמות <כתובות>, מופרדים ב־; או ב־,
+	New category	קטגוריה חדשה
+	New category…	קטגוריה חדשה…
+	New folder	תיקייה חדשה
+	New folder…	תיקייה חדשה…
+	New mail	דואר חדש
+	New mail (Ctrl+N)	דואר חדש (Ctrl+N)
+	New rule	כלל חדש
+	New rule…	כלל חדש…
+	Next week	בשבוע הבא
+	No published settings: the usual server names are filled in. Check them under Server settings.	לא נמצאו הגדרות מפורסמות; מולאו שמות השרתים המקובלים. יש לבדוק אותם בהגדרות השרת.
+	No results. Try fewer words, or search all folders.	לא נמצאו תוצאות. נסו פחות מילים או חפשו בכל התיקיות.
+	No rules yet.	עדיין אין כללים.
+	None (unsafe)	ללא הצפנה (לא בטוח)
+	Not an email address: {address}	כתובת דוא״ל לא תקינה: {address}
+	Not junk	לא דואר זבל
+	Not sent: {error}	לא נשלח: {error}
+	Nothing matches this filter.	אין פריטים התואמים למסנן זה.
+	Nov	נוב׳
+	Numbered list	רשימה ממוספרת
+	Oct	אוק׳
+	Off	כבוי
+	Offline	לא מחובר לרשת
+	Older	ישנות יותר
+	On / off	הפעלה / כיבוי
+	Open	פתיחה
+	Open as a PDF to print	פתיחה כ־PDF לצורך הדפסה
+	Open in {app}	פתיחה ב־{app}
+	Open it in the Craft app for this kind of file	פתיחה ביישום Craft המתאים לסוג קובץ זה
+	Open with the system's app	פתיחה ביישום ברירת המחדל של המערכת
+	Opened as a PDF: print it from the viewer	נפתח כ־PDF: ניתן להדפיס מחלונית הצפייה
+	Options	אפשרויות
+	Other	אחר
+	Outbox	דואר יוצא
+	Outbox: {n}	דואר יוצא: {n}
+	Outgoing mail (SMTP)	דואר יוצא (SMTP)
+	Password	סיסמה
+	Password needed	נדרשת סיסמה
+	Password…	סיסמה…
+	Personal	אישי
+	Pick messages from one account to move them to a folder.	יש לבחור הודעות מחשבון אחד כדי להעבירן לתיקייה.
+	Picture	תמונה
+	Pictures from the web are hidden to protect your privacy.	תמונות מהאינטרנט מוסתרות כדי להגן על פרטיותך.
+	Picture…	תמונה…
+	Pin	נעיצה
+	Plain text	טקסט פשוט
+	Preview	תצוגה מקדימה
+	Print	הדפסה
+	Put newsletters and automatic mail in Other	העברת ניוזלטרים והודעות אוטומטיות אל ״אחר״
+	Quote	ציטוט
+	Reading pane	חלונית קריאה
+	Remove	הסרה
+	Remove account?	להסיר את החשבון?
+	Remove account…	הסרת חשבון…
+	Remove from Favorites	הסרה ממועדפים
+	Remove…	הסרה…
+	Rename	שינוי שם
+	Rename folder	שינוי שם תיקייה
+	Rename folder…	שינוי שם תיקייה…
+	Reply	תשובה
+	Reply (Ctrl+R)	תשובה (Ctrl+R)
+	Reply all	תשובה לכולם
+	Reply all (Ctrl+Shift+R)	תשובה לכולם (Ctrl+Shift+R)
+	Report junk	דיווח כדואר זבל
+	Results for “{query}”	תוצאות עבור ״{query}״
+	Right	ימין
+	Rules	כללים
+	Rules run on new mail as it arrives in an Inbox, in this order.	הכללים מופעלים על הודעות חדשות עם הגעתן לדואר הנכנס, בסדר זה.
+	Rules…	כללים…
+	Run now	הפעלה כעת
+	Run on the folder on screen	הפעלה על התיקייה המוצגת
+	S	S
+	Same as the system	כמו בהגדרות המערכת
+	Sample mailbox (offline)	תיבת דואר לדוגמה (לא מקוונת)
+	Sample mailbox, kept on this computer only	תיבת דואר לדוגמה הנשמרת רק במחשב זה
+	Sat	ש׳
+	Saturday	יום שבת
+	Save	שמירה
+	Save all…	שמירת הכול…
+	Save as PDF…	שמירה כ־PDF…
+	Save as email (.eml)…	שמירה כהודעת דוא״ל (.eml)…
+	Save as…	שמירה בשם…
+	Save draft	שמירת טיוטה
+	Save draft (Ctrl+S)	שמירת טיוטה (Ctrl+S)
+	Saved in the Outbox: it will be sent when you're back online	נשמר בדואר היוצא: ההודעה תישלח לאחר החזרה לחיבור.
+	Saved {n} attachments in {folder}	נשמרו {n} קבצים מצורפים בתיקייה {folder}
+	Saved {path}	נשמר {path}
+	Search folders	חיפוש תיקיות
+	Search mail (from:, subject:, has:attachment…)	חיפוש דואר (from:, subject:, has:attachment…)
+	Select a message first.	יש לבחור תחילה הודעה.
+	Send	שליחה
+	Send (Ctrl+Enter)	שליחה (Ctrl+Enter)
+	Send / Receive	שליחה / קבלה
+	Send / Receive all folders (F9)	שליחה / קבלה בכל התיקיות (F9)
+	Send anyway	שליחה בכל זאת
+	Send now	שליחה כעת
+	Send without a subject?	לשלוח ללא נושא?
+	Send without formatting	שליחה ללא עיצוב
+	Sender, recipients or subject contain	השולח, הנמענים או הנושא מכילים
+	Sending…	שולח…
+	Sent Items	פריטים שנשלחו
+	Sep	ספט׳
+	Server settings	הגדרות שרת
+	Servers: {imap} (IMAP {imap_port}), {smtp} (SMTP {smtp_port})	שרתים: {imap} (IMAP {imap_port}), {smtp} (SMTP {smtp_port})
+	Settings found: {source}	נמצאו הגדרות: {source}
+	Show a desktop notification when new mail arrives	הצגת התראה בשולחן העבודה עם הגעת דואר חדש
+	Show as plain text	הצגה כטקסט פשוט
+	Show formatted	הצגה מעוצבת
+	Show in Favorites	הצגה במועדפים
+	Show pictures	הצגת תמונות
+	Shown as text.	מוצג כטקסט.
+	Shown on mail you send	מוצג בדואר שנשלח
+	Sign in	כניסה לחשבון
+	Sign in again	כניסה מחדש
+	Sign in again…	כניסה מחדש…
+	Sign in with {provider}	כניסה באמצעות {provider}
+	Signature	חתימה
+	Signature…	חתימה…
+	Snooze	דחיית טיפול
+	Stop showing pictures from this sender	הפסקת הצגת תמונות מהשולח הזה
+	Strikethrough	קו חוצה
+	Subject	נושא
+	Subject contains	הנושא מכיל
+	Sun	א׳
+	Sunday	יום ראשון
+	Switch to dark mode	מעבר למצב כהה
+	Switch to light mode	מעבר למצב בהיר
+	System	מערכת
+	Text	טקסט
+	Text or address	טקסט או כתובת
+	The PDF couldn't be opened: {error}	לא ניתן לפתוח את ה־PDF: {error}
+	The folder and everything in it will be moved to Deleted Items.	התיקייה וכל תכולתה יועברו אל פריטים שנמחקו.
+	The folder, its subfolders and all the mail in them will be deleted for good. This can't be undone.	התיקייה, תיקיות המשנה וכל ההודעות שבהן יימחקו לצמיתות. לא ניתן לבטל פעולה זו.
+	The link couldn't be opened: {error}	לא ניתן לפתוח את הקישור: {error}
+	The sign-in page couldn't be opened: {error}	לא ניתן לפתוח את דף הכניסה: {error}
+	Theme	ערכת נושא
+	Then	לאחר מכן
+	These {n} messages will be deleted for good. This can't be undone.	{n} ההודעות האלה יימחקו לצמיתות. לא ניתן לבטל פעולה זו.
+	This folder	התיקייה הזו
+	This message couldn't be downloaded: {error}	לא ניתן להוריד את ההודעה הזו: {error}
+	This message will be deleted for good. This can't be undone.	ההודעה הזו תימחק לצמיתות. לא ניתן לבטל פעולה זו.
+	This weekend	בסוף השבוע הזה
+	Three weeks ago	לפני שלושה שבועות
+	Thu	ה׳
+	Thursday	יום חמישי
+	To	אל
+	To do	לביצוע
+	To or Cc contains	הנמען או העותק מכילים
+	To: {names}	אל: {names}
+	Today	היום
+	Tomorrow	מחר
+	Try again	ניסיון חוזר
+	Tue	ג׳
+	Tuesday	יום שלישי
+	Two weeks ago	לפני שבועיים
+	Unflag	הסרת דגל
+	Unpin	ביטול נעיצה
+	Unread	לא נקראו
+	Unread: {n}	לא נקראו: {n}
+	Upcoming	בקרוב
+	Update folder	עדכון תיקייה
+	Updated {time}	עודכן {time}
+	Updating {folder}…	מעדכן את {folder}…
+	User name	שם משתמש
+	Usually the email address	בדרך כלל כתובת הדוא״ל
+	Video	וידאו
+	View	תצוגה
+	Waiting in the Outbox. Last try: {error}	ממתין בדואר היוצא. ניסיון אחרון: {error}
+	Waiting in the Outbox: it will be sent when you're back online.	ממתין בדואר היוצא: יישלח כשהחיבור יחזור.
+	Wed	ד׳
+	Wednesday	יום רביעי
+	Welcome to MailCraft	ברוכים הבאים ל־MailCraft
+	When mail	כאשר מגיע דואר
+	Without encryption your password travels in the clear. Use only for local test servers.	ללא הצפנה הסיסמה מועברת בצורה גלויה. השתמשו באפשרות זו רק עבור שרתי בדיקה מקומיים.
+	Work	עבודה
+	Works with any provider that offers IMAP and SMTP. Your password is kept in this computer's keychain and only ever sent to your mail server.	תומך בכל ספק המציע IMAP ו־SMTP. הסיסמה נשמרת במחסן האישורים של מחשב זה ונשלחת רק לשרת הדואר שלך.
+	Write your message…	כתיבת ההודעה…
+	Yesterday	אתמול
+	Your mail, on your computer. Add any IMAP account: messages are kept on this device so they're fast to search and readable offline. Your password stays in the system keychain.	הדואר שלך, במחשב שלך. אפשר להוסיף כל חשבון IMAP: ההודעות נשמרות במכשיר לחיפוש מהיר ולקריאה ללא חיבור. הסיסמה נשמרת במחסן האישורים של המערכת.
+	Your name	השם שלך
+	categorize {category}	שיוך לקטגוריה {category}
+	folder	תיקייה
+	from “{text}”	מאת ״{text}״
+	in your browser: no password stored	בדפדפן שלך: הסיסמה אינה נשמרת
+	mentions “{text}”	מזכיר ״{text}״
+	move to {folder}	העברה אל {folder}
+	subject has “{text}”	הנושא מכיל ״{text}״
+	you@example.com	you@example.com
+	{app} couldn't open it: {error}	{app} לא הצליח לפתוח את הפריט: {error}
+	{a} and {b}	{a} וגם {b}
+	{a}, {b} and others	{a}, {b} ואחרים
+	{email} (sample)	{email} (דוגמה)
+	{email} and its downloaded mail will be removed from this computer. Nothing is deleted on the server.	החשבון {email} והדואר שהורד עבורו יוסרו ממחשב זה. דבר לא יימחק מהשרת.
+	{name} could not be opened: {error}	לא ניתן לפתוח את {name}: {error}
+	{n} attachments	{n} קבצים מצורפים
+	{n} messages in this conversation	{n} הודעות בשיחה הזו
+	{n} new messages	{n} הודעות חדשות
+	• List	• רשימה
+	Select a message to read it	בחרו הודעה כדי לקרוא אותה
+	MailCraft – Sample mailbox	MailCraft – תיבת דואר לדוגמה
+	Mail server	שרת דואר
+	IMAP and SMTP	IMAP ו־SMTP
+	JMAP	JMAP
+	JMAP session address	כתובת ההפעלה של JMAP
+	Server: {url} (JMAP)	שרת: {url} (JMAP)
+	Open in new window	פתיחה בחלון חדש
+	{subject} – Message	{subject} – הודעה
+	About	אודות
+	About MailCraft	אודות MailCraft
+	Account information	פרטי חשבון
+	Account settings	הגדרות חשבון
+	An ArtCraft app · MIT OR Apache-2.0	יישום ArtCraft · ברישיון MIT או Apache-2.0
+	Automatic replies	תשובות אוטומטיות
+	Back	חזרה
+	Built in the open from the email standards: no code, icons or assets from other mail apps.	נבנה בקוד פתוח על בסיס תקני הדוא״ל: ללא קוד, סמלים או נכסים מיישומי דואר אחרים.
+	Change this account's name, servers and sign-in, or its signature.	שינוי שם החשבון, השרתים, פרטי הכניסה או החתימה שלו.
+	Checking with the server…	בודק מול השרת…
+	Compact list	רשימה קומפקטית
+	Don't send automatic replies	לא לשלוח תשובות אוטומטיות
+	Each sender gets one reply a day while they're on. They're kept on your mail server, so they work while this computer is off.	כל שולח מקבל תשובה אחת ביום כשהאפשרות פעילה. התשובות נשמרות בשרת הדואר, ולכן פועלות גם כשהמחשב כבוי.
+	Empty	ריקון
+	Empty Deleted Items…	ריקון פריטים שנמחקו…
+	Empty Junk Email…	ריקון דואר זבל…
+	Empty “{folder}”?	לרוקן את ״{folder}״?
+	Everything in it will be deleted for good, including mail not downloaded to this computer. This can't be undone.	כל התוכן יימחק לצמיתות, כולל דואר שלא הורד למחשב זה. לא ניתן לבטל פעולה זו.
+	General	כללי
+	Google (IMAP)	Google (IMAP)
+	I'm away until…	אני לא זמין עד…
+	Inbox and notifications	דואר נכנס והתראות
+	Info	מידע
+	Kept on this computer: {size}	נשמר במחשב זה: {size}
+	MailCraft talks only to your own mail servers, over encrypted connections. Pictures from the web load only when you ask.	MailCraft מתקשר רק עם שרתי הדואר שלך, באמצעות חיבורים מוצפנים. תמונות מהאינטרנט נטענות רק לפי בקשתך.
+	MailCraft {version}	MailCraft {version}
+	Mailbox	תיבת דואר
+	Mailbox settings	הגדרות תיבת דואר
+	Manage rules	ניהול כללים
+	Mark messages as read when opened	סימון הודעות כנקראו בעת פתיחתן
+	Microsoft 365 (IMAP)	Microsoft 365 (IMAP)
+	No senders yet.	עדיין אין שולחים.
+	Not available: the sample mailbox has no server.	לא זמין: לתיבת הדואר לדוגמה אין שרת.
+	Not available: {error}	לא זמין: {error}
+	On	פעיל
+	On from {from}	פעיל החל מ־{from}
+	On from {from} until {until}	פעיל מ־{from} עד {until}
+	On until {until}	פעיל עד {until}
+	Only between these days	רק בין התאריכים האלה
+	Pictures from the web load only when you ask. These senders' pictures always load:	תמונות מהאינטרנט נטענות רק לפי בקשתך. תמונות מהשולחים האלה ייטענו תמיד:
+	Privacy	פרטיות
+	Reading	קריאה
+	Rules: {n}	כללים: {n}
+	Sample mailbox	תיבת דואר לדוגמה
+	See how much space your mail takes, and empty Deleted Items and Junk Email.	כאן אפשר לבדוק כמה מקום הדואר תופס ולרוקן את פריטים שנמחקו ואת דואר הזבל.
+	Send automatic replies	שליחת תשובות אוטומטיות
+	Server settings…	הגדרות שרת…
+	Show HTML mail formatted (otherwise as plain text)	הצגת דואר HTML בעיצוב מלא (אחרת כטקסט פשוט)
+	Show a line of each message in the list	הצגת שורה מכל הודעה ברשימה
+	Sort new mail as it arrives: move it, flag it, categorize it.	מיון דואר חדש בעת הגעתו: העברה, סימון בדגל ושיוך לקטגוריות.
+	Source code and issues	קוד מקור ודיווחי בעיות
+	Subject (optional)	נושא (לא חובה)
+	Tell people you're away: each sender gets one reply while they're on, even when this computer is off.	הודעה על היעדרות: כל שולח יקבל תשובה אחת כל עוד האפשרות פעילה, גם כשהמחשב כבוי.
+	The server doesn't say how much space is used.	השרת אינו מדווח כמה שטח אחסון מנוצל.
+	Until	עד
+	{free} free of {total}	{free} פנויים מתוך {total}
+	{used} used on the server	{used} בשימוש בשרת
+	this server doesn't offer automatic replies	השרת הזה אינו תומך בתשובות אוטומטיות
+	this server doesn't offer automatic replies (no ManageSieve)	השרת הזה אינו תומך בתשובות אוטומטיות (אין ManageSieve)
+	the account is offline	החשבון אינו מקוון
+	Drag it to a folder or another app to copy it	גררו לתיקייה או ליישום אחר כדי להעתיק
+	Accept	אישור השתתפות
+	Accepted	אושר
+	Add a title	הוספת כותרת
+	All day	יום שלם
+	April	אפריל
+	Attendees: {names}	משתתפים: {names}
+	August	אוגוסט
+	Calendar	לוח שנה
+	Calendars	לוחות שנה
+	Changes apply to every occurrence.	השינויים יחולו על כל המופעים.
+	Company	חברה
+	Custom	מותאם אישית
+	Day	יום
+	December	דצמבר
+	Decline	דחיית הזמנה
+	Declined	נדחה
+	Delete the series	מחיקת הסדרה
+	Delete this occurrence	מחיקת המופע הזה
+	Edit contact	עריכת איש קשר
+	Email	דוא״ל
+	Ends	מסתיים
+	Event	אירוע
+	Every day	מדי יום
+	Every month	מדי חודש
+	Every week	מדי שבוע
+	Every year	מדי שנה
+	February	פברואר
+	In the address book of {account}	בפנקס הכתובות של {account}
+	January	ינואר
+	Job title	תפקיד
+	July	יולי
+	June	יוני
+	Location	מיקום
+	Mail	דואר
+	March	מרץ
+	Month	חודש
+	Never	לעולם לא
+	New contact	איש קשר חדש
+	New event	אירוע חדש
+	Next	הבא
+	Next month	החודש הבא
+	No answer yet	אין תשובה עדיין
+	No contacts yet.	עדיין אין אנשי קשר.
+	No one matches.	לא נמצאה התאמה.
+	Notes	הערות
+	November	נובמבר
+	October	אוקטובר
+	One address per line	כתובת אחת בכל שורה
+	Organizer: {name}	מארגן: {name}
+	People	אנשים
+	Phone	טלפון
+	Pick someone to see their details	בחרו אדם כדי להציג את פרטיו
+	Previous	הקודם
+	Previous month	החודש הקודם
+	Repeat	חזרה
+	Search people	חיפוש אנשים
+	September	ספטמבר
+	Starts	מתחיל
+	Tentative	אולי
+	Week	שבוע
+	Your answer:	התשובה שלך:
+	{from} {month_from} – {to} {month} {year}	{from} {month_from} – {to} {month} {year}
+	{from} – {to} {month} {year}	{from} – {to} {month} {year}
+	{month} {year}	{month} {year}
+	{n} more	עוד {n}
+	{weekday}, {day} {month} {year}	{weekday}, {day} {month} {year}
+	Add to contacts	הוספה לאנשי קשר
+	Invite	הזמנה
+	Record the answer	שמירת התשובה
+	Remove from calendar	הסרה מלוח השנה
+	Show in calendar	הצגה בלוח השנה
+	This event was cancelled.	האירוע הזה בוטל.
+	{name} accepted.	{name} אישר השתתפות.
+	{name} answered.	{name} השיב.
+	{name} declined.	{name} דחה את ההזמנה.
+	{name} said maybe.	{name} השיב שאולי יגיע.
+	You accepted.	אישרת השתתפות.
+	You said maybe.	השבת שאולי תגיע.
+	You declined.	דחית את ההזמנה.
+	Open & Export	פתיחה וייצוא
+	Open data file	פתיחת קובץ נתונים
+	Open Outlook data file	פתיחת קובץ נתונים של Outlook
+	Bring in the mail of an Outlook data file (.pst). It opens as a mailbox of its own, with its folders, kept on this computer.	ייבוא הדואר מקובץ נתונים של Outlook ‏(.pst). הקובץ נפתח כתיבת דואר נפרדת עם תיקיות משלו ונשמר במחשב זה.
+	Open now: {files}	פתיחה כעת: {files}
+	Outlook data file	קובץ נתונים של Outlook
+	Opened from an Outlook data file, kept on this computer only	נפתח מקובץ נתונים של Outlook ונשמר רק במחשב זה
+	Not available: a data file has no server.	לא זמין: לקובץ נתונים אין שרת.
+	Opening {file}…	פותח את {file}…
+	Exchange (Microsoft 365)	Exchange (Microsoft 365)
+	Exchange (Microsoft Graph)	Exchange (Microsoft Graph)
+	Server: {url} (Microsoft Graph)	שרת: {url} (Microsoft Graph)
+	Signing in with Microsoft isn't set up in this copy of MailCraft.	כניסה באמצעות Microsoft אינה מוגדרת בעותק זה של MailCraft.
+	Syncs through Microsoft Graph, for work and school accounts where IMAP is switched off. You sign in with Microsoft in the browser: no password is stored.	סנכרון דרך Microsoft Graph לחשבונות עבודה ולימודים שבהם IMAP מושבת. הכניסה ל־Microsoft מתבצעת בדפדפן, ללא שמירת סיסמה.
+	In the browser, MailCraft works with JMAP providers. Your password stays in this tab only and is only ever sent to your mail server.	בדפדפן, MailCraft פועל עם ספקי JMAP. הסיסמה נשמרת רק בכרטיסייה זו ונשלחת רק לשרת הדואר שלך.
+	Your mail in the browser. Add a JMAP account (such as Fastmail): MailCraft talks to your mail server directly, and your password stays in this tab only.	הדואר שלך בדפדפן. הוסיפו חשבון JMAP (כגון Fastmail): ‏MailCraft מתחבר ישירות לשרת הדואר, והסיסמה נשמרת רק בכרטיסייה זו.
+folder	Archive	ארכיון
+month	May	מאי

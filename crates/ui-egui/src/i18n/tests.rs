@@ -309,6 +309,9 @@ fn tags_templates_and_dates() {
     assert_eq!(lang_from_tag("it_IT.UTF-8").map(Lang::code), Some("it"));
     assert_eq!(lang_from_tag("ru").map(Lang::code), Some("ru"));
     assert_eq!(lang_from_tag("de-AT").map(Lang::code), Some("de"));
+    assert_eq!(lang_from_tag("he-IL").map(Lang::code), Some("he"));
+    assert_eq!(lang_from_tag("iw-IL").map(Lang::code), Some("he"));
+    assert_eq!(tr(Lang::from_code("he").unwrap_or(Lang::EN), "Inbox"), "דואר נכנס");
     assert_eq!(lang_from_tag("C"), Some(Lang::EN));
     assert_eq!(lang_from_tag("xx"), None);
     assert_eq!(fmt("Saved {n} in {folder}", &[("n", "3"), ("folder", "{n}")]), "Saved 3 in {n}", "values aren't templates");

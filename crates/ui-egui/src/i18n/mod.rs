@@ -33,11 +33,12 @@ pub struct LangInfo {
     catalog: OnceLock<HashMap<String, String>>,
 }
 
-pub static LANGUAGES: [LangInfo; 11] = [
+pub static LANGUAGES: [LangInfo; 12] = [
     LangInfo { code: "en", name: "English", source: "", cjk: false, catalog: OnceLock::new() },
     LangInfo { code: "es", name: "Español", source: include_str!("es.tsv"), cjk: false, catalog: OnceLock::new() },
     LangInfo { code: "fr", name: "Français", source: include_str!("fr.tsv"), cjk: false, catalog: OnceLock::new() },
     LangInfo { code: "de", name: "Deutsch", source: include_str!("de.tsv"), cjk: false, catalog: OnceLock::new() },
+    LangInfo { code: "he", name: "עברית", source: include_str!("he.tsv"), cjk: false, catalog: OnceLock::new() },
     LangInfo { code: "pt-br", name: "Português (Brasil)", source: include_str!("pt-br.tsv"), cjk: false, catalog: OnceLock::new() },
     LangInfo { code: "it", name: "Italiano", source: include_str!("it.tsv"), cjk: false, catalog: OnceLock::new() },
     LangInfo { code: "ru", name: "Русский", source: include_str!("ru.tsv"), cjk: false, catalog: OnceLock::new() },
@@ -173,6 +174,10 @@ pub fn lang_from_tag(tag: &str) -> Option<Lang> {
     let primary = *parts.first()?;
     if matches!(primary, "c" | "posix") {
         return Some(Lang::EN);
+    }
+    // The old Hebrew language code still appears in some OS locale settings.
+    if primary == "iw" {
+        return Lang::from_code("he");
     }
     if primary == "zh" {
         // The script decides; without one, the region (Taiwan, Hong Kong, Macau write Traditional).
