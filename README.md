@@ -1,5 +1,7 @@
 <h1 align="center">MailCraft</h1>
 
+<p align="center"><a href="README.he.md">עברית</a> · <a href="README.md">English</a></p>
+
 <p align="center">
   <b>Local-first email for creators; an open-source, clean-room alternative to Microsoft Outlook, rebuilt in pure Rust.</b>
 </p>
